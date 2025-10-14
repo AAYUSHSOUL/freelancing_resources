@@ -2,7 +2,7 @@
 
 ### This repository contains links to resources for anyone interested in data freelancing
 
-Background: Over the last several years I have collected these resources to share with individuals who have reached out for advice on freelancing in data work. I do not endorse any particular resource in this list (although some of these resources come from other freelancing friends that I have made over the years). My hope is that these resources might help others navigate this space better than I did when I first started my freelancing career. :)
+Background: Over the last several years I have collected these resources to share with individuals who have reached out for advice on freelancing in data work. I do not endorse any particular resource in this list. My hope is that these resources might help others navigate this space better than I did when I first started my freelancing career. :)
 
 ### Podcasts, Webinars, and Talks 🎙️
 
