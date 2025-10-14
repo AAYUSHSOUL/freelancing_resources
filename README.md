@@ -2,7 +2,7 @@
 
 ### This repository contains links to resources for anyone interested in data freelancing
 
-Background: Over the last several years I have collected these resources to share with individuals who have reached out for advice on freelancing in data work. I do not endorse any particular resource in this list. My hope is that these resources might help others navigate this space better than I did when I first started my freelancing career. :)
+Over the last several years I have collected these resources to share with individuals who have reached out for advice on getting started in data freelancing. Data freelancing is very broad and encompasses anything from data management, to data analysis, to data reporting, or data engineering and includes a variety of fields and industries. I do not endorse any particular resource in this list. My hope is that these resources might help others navigate this space if they decide this is a good career path for them. I will continue to add resources to this list as I come across them.
 
 ### Podcasts, Webinars, and Talks 🎙️
 
