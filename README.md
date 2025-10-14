@@ -6,26 +6,26 @@ Over the last several years I have collected these resources to share with indiv
 
 ### Podcasts, Webinars, and Talks 🎙️
 
-- [David Keyes: What they forgot to teach you about starting a business with R](https://www.youtube.com/watch?v=FWPMUolmflA)
+- [What they forgot to teach you about starting a business with R](https://www.youtube.com/watch?v=FWPMUolmflA) (David Keyes)
 - [The Business of Authority podcast](https://thebusinessofauthority.com/)
-- [Breaking into Education Consulting: Exploring Independent Career Paths - Webinar](https://www.youtube.com/watch?v=50hWMIyR6bw)
-- [Being a Data Viz Consulant](https://www.youtube.com/watch?v=qUQ3MIDNyQc)
+- [Breaking into Education Consulting: Exploring Independent Career Paths - Webinar](https://www.youtube.com/watch?v=50hWMIyR6bw) (Association for Education Finance & Policy)
+- [Being a Data Viz Consulant](https://www.youtube.com/watch?v=qUQ3MIDNyQc) (Cara Thompson)
   
 ### Slides 🖥️
 
-- [Starting Your Freelance Career](https://cghlewis.com/talks/eds_freelance/)
+- [Starting Your Freelance Career](https://cghlewis.com/talks/eds_freelance/) (Crystal Lewis)
 
 ### Blog Posts 📖
 
-- [Report: The Surprising Truth About Finding Clients](https://samlandenwitsch.substack.com/p/report-the-surprising-truth-about)
-- [Lessons after one year of data science freelancing](https://barbierjoseph.com/blog/lessons-after-one-year-of-data-science-freelancing/)
-- [Freelancer's Guide to Upwork](https://www.techbybryce.com/blog/freelancers-guide-to-upwork)
-- [Serving with Purpose: Lessons Learned from Consulting in Assessment and Research](https://cehhs.utk.edu/elps/serving-with-purpose-lessons-learned-from-consulting-in-assessment-and-research/)
+- [Report: The Surprising Truth About Finding Clients](https://samlandenwitsch.substack.com/p/report-the-surprising-truth-about) (Sam Landenwitsch)
+- [Lessons after one year of data science freelancing](https://barbierjoseph.com/blog/lessons-after-one-year-of-data-science-freelancing/) (Joseph Barbier)
+- [Freelancer's Guide to Upwork](https://www.techbybryce.com/blog/freelancers-guide-to-upwork) (Bryce Chamberlain)
+- [Serving with Purpose: Lessons Learned from Consulting in Assessment and Research](https://cehhs.utk.edu/elps/serving-with-purpose-lessons-learned-from-consulting-in-assessment-and-research/) (Jerri Berry Danso)
 
 ### Lists of Data Freelancers/Connecting Clients and Freelancers 📝
 
-- [Data Freelancers](https://datafreelancers.com/)
-- [Data Consultants](https://docs.google.com/spreadsheets/d/1sQmagDcatQfSQFtV2SQTjpBlUW7z0ubDXAP707aW4JU)
+- [Data Freelancers](https://datafreelancers.com/) (Ben Jones)
+- [Data Consultants](https://docs.google.com/spreadsheets/d/1sQmagDcatQfSQFtV2SQTjpBlUW7z0ubDXAP707aW4JU) (Crystal Lewis)
 - [Data Drive Consultant Database](https://docs.google.com/forms/d/e/1FAIpQLSeyzzp8aSQWxuoOn4miK5ra33N53v8r6JETDVY-mnf7WUJO-g/viewform)
 - [CIRCLE Consultant Request](https://earlychildhood.stanford.edu/circle-consultant-request-qualifications)
 - [Research Pathfinder](https://www.researchpathfinder.co/)
@@ -33,11 +33,11 @@ Over the last several years I have collected these resources to share with indiv
 
 ### Miscellaneous 🗃️
 
-- [Sales and Service Workflow - Contains Document Templates](https://docs.google.com/presentation/d/1Rw3mNWiYgVPQZ4FRfB0Y0H8R_USKh2dxe95f_HtTNP4)
+- [Sales and Service Workflow - Contains Document Templates](https://docs.google.com/presentation/d/1Rw3mNWiYgVPQZ4FRfB0Y0H8R_USKh2dxe95f_HtTNP4) (Dallas Novakowski)
 - [Freelancing Females Database of Rates](https://freelancingfemales.com/rates)
 - [2024 Nonprofit.ist Consultant Cost & Compensation Survey](https://www.nonprofit.ist/images/Nonprofit.ist---4th-Annual-Survey---Executive-Summary.pdf)
-- [Solo Business + Rest Retreat Workbook](https://dalyanalytics.notion.site/Solo-Business-Rest-Retreat-Workbook-Shared-28b02b24f74c806ba1f5feb79ef626c0)
-- [The Consulting Handbook](https://github.com/sdg-1/consulting-handbook)
+- [Solo Business + Rest Retreat Workbook](https://dalyanalytics.notion.site/Solo-Business-Rest-Retreat-Workbook-Shared-28b02b24f74c806ba1f5feb79ef626c0) (Jasmine Daly)
+- [The Consulting Handbook](https://github.com/sdg-1/consulting-handbook) (Seattle Data Guy)
 
 ### Favorite Quotes 💬
 
