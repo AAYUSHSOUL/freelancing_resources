@@ -34,7 +34,7 @@ Background: Over the last several years I have collected these resources to shar
 ### Miscellaneous 🗃️
 
 - [Freelancing Females Database of Rates](https://freelancingfemales.com/rates)
-- [2024 Nonprofit.ist Consultatn Cost & Compensation Survey](https://www.nonprofit.ist/images/Nonprofit.ist---4th-Annual-Survey---Executive-Summary.pdf)
+- [2024 Nonprofit.ist Consultant Cost & Compensation Survey](https://www.nonprofit.ist/images/Nonprofit.ist---4th-Annual-Survey---Executive-Summary.pdf)
 - [Solo Business + Rest Retreat Workbook](https://dalyanalytics.notion.site/Solo-Business-Rest-Retreat-Workbook-Shared-28b02b24f74c806ba1f5feb79ef626c0)
 - [The Consulting Handbook](https://github.com/sdg-1/consulting-handbook)
 
