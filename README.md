@@ -38,6 +38,7 @@ Over the last several years I have collected these resources to share with indiv
 - [2024 Nonprofit.ist Consultant Cost & Compensation Survey](https://www.nonprofit.ist/images/Nonprofit.ist---4th-Annual-Survey---Executive-Summary.pdf)
 - [Solo Business + Rest Retreat Workbook](https://dalyanalytics.notion.site/Solo-Business-Rest-Retreat-Workbook-Shared-28b02b24f74c806ba1f5feb79ef626c0) (Jasmine Daly)
 - [The Consulting Handbook](https://github.com/sdg-1/consulting-handbook) (Seattle Data Guy)
+- [Thoughts on starting your own business](https://www.linkedin.com/posts/alberto-espinoza-es_the-response-to-my-last-post-has-been-overwhelming-activity-7384936278573842432-tVDw) (Alberto Espinoza)
 
 ### Favorite Quotes 💬
 
